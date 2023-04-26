@@ -55,7 +55,9 @@ plt.title("Sobel X axis")
 plt.axis("off")
 plt.show()
 ```
+
 ## SOBEly
+
 ```
 sobely = cv2.Sobel(gray1,cv2.CV_64F,0,1,ksize=5)
 plt.figure(figsize=(15,15))
