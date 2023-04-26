@@ -122,7 +122,9 @@ plt.show()
 ###Gray scale image
 ### SOBEL EDGE DETECTOR
  ![op3](https://user-images.githubusercontent.com/93427594/234475445-ddbffb44-116e-417f-8fae-1624a254475c.png)
+### Sobel y
 ![op4](https://user-images.githubusercontent.com/93427594/234475988-576e2a28-6d86-4162-a87b-aa6cb5db104b.png)
+###Sobel xy
 ![op5](https://user-images.githubusercontent.com/93427594/234476076-562164c2-d71f-493a-b05c-68f4eb6ab5cf.png)
 
 ### LAPLACIAN EDGE DETECTOR
